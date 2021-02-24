@@ -1,2 +1,9 @@
 # Ola_Mundo_Flutter
-Projeto de estudo
+
+## Sobre
+O Projeto foi construido no intuito de aprendizado.
+
+## Pages
+Pagina Inicial
+Pagina Login
+Pagina Home
