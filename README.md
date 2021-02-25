@@ -1,9 +1,10 @@
 # Ola_Mundo_Flutter
 
-## Sobre
-O Projeto foi construido no intuito de aprendizado.
+#### Projeto
+O projeto foi criado como forma de estudo, caso queira visualizar ou até mesmo melhorar, fica a vontade.
 
-## Pages
-Pagina Inicial
-Pagina Login
-Pagina Home
+#### Páginas
+O projeto possui  3 telas \n
+Tela inicial \n
+Tela login \n
+Tela Home
