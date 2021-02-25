@@ -1,10 +1,10 @@
-# Ola_Mundo_Flutter
+# Ola Mundo
 
 #### Projeto
-O projeto foi criado como forma de estudo, caso queira visualizar ou até mesmo melhorar, fica a vontade.
+O projeto foi criado como forma de estudo para aprimorar os conhecimentos em Flutter.
 
-#### Páginas
-O projeto possui  3 telas \n
-Tela inicial \n
-Tela login \n
-Tela Home
+#### Páginas do app
+Tela inicial
+Tela login
+Tela home
+
